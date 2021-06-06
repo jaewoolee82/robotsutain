@@ -6,7 +6,7 @@ class Core(commands.Cog):
     def __init__(self, bot): 
         self.bot = bot
     
-    @commands.command(name="계산", help="더하기,빼기,곱하기 계산함")
+    @commands.command(name="계산")
     async def calc(self,ctx,lan:str=None,first:int=None,second:int=None):
         if first==None or second==None:
             await ctx.send("수를 입력해주세요")
