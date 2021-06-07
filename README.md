@@ -5,8 +5,6 @@
 ![language](https://img.shields.io/badge/Language-Python-brightgreen)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ef69ffc10707482e802a9a6feb90ec02)](https://www.codacy.com/gh/jaewoolee82/robotsutain/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jaewoolee82/robotsutain&amp;utm_campaign=Badge_Grade)
 
-**로봇슈타인의 오픈소스 (일부 비공개)**
-
 ## 디스코드 서버
 만드는중...
 
