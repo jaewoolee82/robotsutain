@@ -12,7 +12,7 @@
 | 이름                                                                            | 버전 |
 | ------------------------------------------------------------------------------ | ------- |
 | [Replit](https://replit.com)                                                  | -  |
-| [Python - 3.9.5](https://www.python.org/downloads/release/python-395)                 | 	3.9.5  |
+| [Python](https://www.python.org/downloads/release/python-395)                 | 	3.9.5  |
 
 ## Lisence
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjaewoolee82%2Frobotsutain.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjaewoolee82%2Frobotsutain?ref=badge_large)
